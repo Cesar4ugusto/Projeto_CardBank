@@ -1,4 +1,4 @@
-![capagit](https://user-images.githubusercontent.com/67242974/112569917-ce0c8c00-8dc3-11eb-919f-2f6c92ce5174.jpg)
+![capagit](https://user-images.githubusercontent.com/67242974/112635878-1c994500-8e1b-11eb-94f0-c017b159c160.jpg)
 
 # Projeto Rotate Cards.
 
