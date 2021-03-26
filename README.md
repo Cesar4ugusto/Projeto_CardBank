@@ -21,4 +21,6 @@ Demonstra a animação de rotação de cards simulando cartão bancário.
 
 ### Licença
 
+As imagens estão sob proteção da marca.
+
 Todos os ativos e código são de domínio público, a menos que especificado de outra forma.
